@@ -50,3 +50,10 @@ Pre-Conditions: Python3 and pip3 are already installed. All instructions are bas
     
     c) you will see a page indicating successful installation
 
+
+Setting Up Visual Studio Code
+1) Download Free Visual Studio Code - https://code.visualstudio.com/
+2) Once downloaded, launch Visual Studio Code
+3) Click File>Open Folder...
+4) Navigate to Macintosh HD⁩ ▸ ⁨Users⁩ ▸ ⁨username ▸ ⁨workspace⁩ ▸ ⁨Django▸ ⁨Social_book
+5) Click Open
